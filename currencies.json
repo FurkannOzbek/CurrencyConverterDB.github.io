@@ -5,7 +5,7 @@
   "date": "2021-03-17",
   "rates": [
     { "code": "USD", "rate": 1.08, "text": "US Dollar", "updateDate": "12-05-2024","symbol": "$" },
-    { "code": "GBP", "rate": 0.85, "text": "British Pound", "updateDate": "12-05-2024" },
+    { "code": "GBP", "rate": 0.85, "text": "British Pound", "updateDate": "12-05-2024","symbol": "€" },
     { "code": "EUR", "rate": 1, "text": "Euro", "updateDate": "12-05-2024" },
     { "code": "JPY", "rate": 170, "text": "Japanese Yen", "updateDate": "12-05-2024" },
     { "code": "INR", "rate": 90.44, "text": "Indian Rupee", "updateDate": "12-05-2024" },
