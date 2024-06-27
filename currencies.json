@@ -4,7 +4,7 @@
   "text": "Euro",
   "date": "2021-03-17",
   "rates": [
-    { "code": "USD", "rate": 1.08, "text": "US Dollar", "updateDate": "12-05-2024","symbol": "$" },
+    { "code": "USD", "rate": 1.08, "text": "US Dollar", "updateDate": "12-05-2024","symbol": "$", "flagsrc":"https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" },
     { "code": "GBP", "rate": 0.85, "text": "British Pound", "updateDate": "12-05-2024","symbol": "£" },
     { "code": "EUR", "rate": 1, "text": "Euro", "updateDate": "12-05-2024","symbol": "£" },
     { "code": "JPY", "rate": 170, "text": "Japanese Yen", "updateDate": "12-05-2024","symbol": "¥" },
