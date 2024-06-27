@@ -5,13 +5,13 @@
   "date": "2021-03-17",
   "rates": [
     { "code": "USD", "rate": 1.08, "text": "US Dollar", "updateDate": "12-05-2024","symbol": "$", "flagsrc":"https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" },
-    { "code": "GBP", "rate": 0.85, "text": "British Pound", "updateDate": "12-05-2024","symbol": "£" },
-    { "code": "EUR", "rate": 1, "text": "Euro", "updateDate": "12-05-2024","symbol": "£" },
-    { "code": "JPY", "rate": 170, "text": "Japanese Yen", "updateDate": "12-05-2024","symbol": "¥" },
-    { "code": "INR", "rate": 90.44, "text": "Indian Rupee", "updateDate": "12-05-2024","symbol": "₹" },
-    { "code": "CHF", "rate": 0.99, "text": "Swiss Franc", "updateDate": "12-05-2024","symbol": "₣" },
-    { "code": "RUB", "rate": 97.56, "text": "Russian Rubles", "updateDate": "12-05-2024","symbol": "₽" },
-    { "code": "DKK", "rate": 7.46, "text": "Danish Krone", "updateDate": "12-05-2024","symbol": "kr" },
-    { "code": "TRY", "rate": 35.03, "text": "Turkish Liras", "updateDate": "12-05-2024","symbol": "₺" }
+    { "code": "GBP", "rate": 0.85, "text": "British Pound", "updateDate": "12-05-2024","symbol": "£", "flagsrc":"https://cdn.pixabay.com/photo/2013/07/13/12/51/flag-160483_1280.png"  },
+    { "code": "EUR", "rate": 1, "text": "Euro", "updateDate": "12-05-2024","symbol": "£", "flagsrc":"https://cdn.pixabay.com/photo/2013/07/13/01/09/europe-155191_1280.png"  },
+    { "code": "JPY", "rate": 170, "text": "Japanese Yen", "updateDate": "12-05-2024","symbol": "¥" , "flagsrc":"https://cdn.pixabay.com/photo/2012/04/13/12/23/flag-32177_1280.png" },
+    { "code": "INR", "rate": 90.44, "text": "Indian Rupee", "updateDate": "12-05-2024","symbol": "₹" , "flagsrc":"https://cdn.pixabay.com/photo/2016/08/24/17/07/india-1617463_1280.png" },
+    { "code": "CHF", "rate": 0.99, "text": "Swiss Franc", "updateDate": "12-05-2024","symbol": "₣", "flagsrc":"https://img.freepik.com/free-vector/illustration-switzerland-flag_53876-27100.jpg?w=2000&t=st=1719493877~exp=1719494477~hmac=d62c0e3bf1e64c001619a952dd304d582b57f6f11cbf1aaf38f8924fcbc8ba40"  },
+    { "code": "RUB", "rate": 97.56, "text": "Russian Rubles", "updateDate": "12-05-2024","symbol": "₽", "flagsrc":"https://cdn.pixabay.com/photo/2012/04/10/23/12/russia-26896_1280.png"  },
+    { "code": "DKK", "rate": 7.46, "text": "Danish Krone", "updateDate": "12-05-2024","symbol": "kr" , "flagsrc":"https://cdn.pixabay.com/photo/2020/02/26/02/34/denmark-4880481_1280.png" },
+    { "code": "TRY", "rate": 35.03, "text": "Turkish Liras", "updateDate": "12-05-2024","symbol": "₺" , "flagsrc":"https://cdn.pixabay.com/photo/2016/10/27/12/55/turkish-flag-1774834_1280.png" }
   ]
 }
